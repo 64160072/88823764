@@ -1,0 +1,26 @@
+.content{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.information{
+    margin-left: 25%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.row{
+    margin: 0 auto;
+}
+
+.thx{
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 80px;
+}
